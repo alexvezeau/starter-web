@@ -20,4 +20,6 @@ Alex Vezeau
 ## How to contribute
 Send money
 
+## How to contact in case of emergency
+
 2016 Git.Training
