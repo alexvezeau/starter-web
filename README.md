@@ -12,6 +12,7 @@ Sample website with plenty of files for demos.
 Really cool project.
 
 ## Deployment
+Adding deployment info
 
 ## Credits
 Alex Vezeau
