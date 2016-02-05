@@ -16,4 +16,7 @@ Really cool project.
 ## Credits
 Alex Vezeau
 
+## How to contribute
+Send money
+
 2016 Git.Training
