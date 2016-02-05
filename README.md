@@ -15,3 +15,5 @@ Really cool project.
 
 ## Credits
 Alex Vezeau
+
+2016 Git.Training
