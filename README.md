@@ -2,7 +2,7 @@
 
 ## Introduction
 This repository is for showing how Git and GitHub work.
-Just for fun.  Expanded, oops.
+Just for fun.  Expanded, oops. xxx
 
 ## NEW SECTION
 
@@ -21,5 +21,7 @@ Alex Vezeau
 Send money
 
 ## How to contact in case of emergency
+
+XXX
 
 2016 Git.Training
